@@ -1,6 +1,7 @@
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/nicefaa6waa/genshin-sddm-theme?utm_source=oss&utm_medium=github&utm_campaign=nicefaa6waa%2Fgenshin-sddm-theme&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 # Genshin Sddm Theme
 
+## IMPROVED VERSION
 An animated genshin sddm-theme, comes with animated background
 implemented changing backgrounds for the time of day.With every login-session,new wallpaper
 will be shown based on the time on your OS. 
